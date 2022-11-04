@@ -546,3 +546,43 @@ font-size: 50px;
 .item_tenth{
     padding-top: 3%;
 }
+footer{
+    background-color: black;
+    height: 600px;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.contain_foot{
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.col_foot{
+    width: calc(100% / 5);
+    height: 100%;
+    padding-top: 10%;
+}
+.title_foot{
+    font-size: 30px;
+}
+.foot_list_box{
+    padding-top: 5%;
+    font-size: 18px;
+}
+.foot_list{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 250px;
+    list-style: none;
+}
+.hr_foot{
+    padding-top: 20%;
+}
+.foot_language{
+    padding-top: 20%;
+    font-size: 18px;
+}
