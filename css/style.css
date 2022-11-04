@@ -368,6 +368,7 @@ main{
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
+    margin-top: 15%;
 }
 .sixth_title{
     height: 10%;
@@ -385,3 +386,19 @@ main{
     height: 100%;
     width: calc(90% / 3);
 }
+.img_sixth_1{
+    width: 100%;
+    height: calc(100% / 2);
+    contain: content;
+    display: flex;
+    justify-content: center;
+}
+.sixth_row_text{
+    width: 100%;
+    height: calc(100% / 2);
+}
+.sixth_col_text{
+    padding-top: 8%;
+    font-size: 17px;
+}
+/* seventh box */
