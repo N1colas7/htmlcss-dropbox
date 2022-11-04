@@ -505,6 +505,7 @@ main{
 }
 .ninth_title{
     padding: 10%;
+    margin-left: 13%;
     font-size: 20px;
 }
 .ninth_button_box{
@@ -516,4 +517,32 @@ main{
     padding: 3%;
     font-size: 22px;
     border-style: groove;
+}
+/* tenth box */
+.tenth_box{
+    height: 700px;
+    width: 100%;
+}
+.tenth_title{
+    padding-left: 23%;
+    padding-top: 10%;
+    display: flex;
+    flex-direction: column;
+}
+.title_domande{
+font-size: 50px;
+}
+.hr_tenth{
+    padding-top: 5%;
+}
+.contain_text_tenth{
+    display: flex;
+}
+.text_tenth{
+    padding-top: 3%;
+    padding-right: 30%;
+    font-size: 18px;
+}
+.item_tenth{
+    padding-top: 3%;
 }
