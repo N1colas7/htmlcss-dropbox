@@ -496,3 +496,24 @@ main{
     background-color: rgb(255, 216, 48);
 }
 /* ninth box */
+.ninth_box{
+    background-color: rgb(180, 208, 231);
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+}
+.ninth_title{
+    padding: 10%;
+    font-size: 20px;
+}
+.ninth_button_box{
+    padding-top: 11%;
+    width: 30%;
+}
+.ninth_button{
+    background-color: white;
+    padding: 3%;
+    font-size: 22px;
+    border-style: groove;
+}
