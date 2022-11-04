@@ -419,3 +419,80 @@ main{
     font-size: 20px;
     width: 50%;
 }
+/* eighth box */
+.eighth_box{
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.eight_first_third_box{
+    height: 100%;
+    width: calc(60% / 2);
+}
+.eight_second_box{
+    height: 100%;
+    width: 40%;
+}
+.eight_title_box{
+    height: 40%;
+    width: 100%;
+    background-color: rgb(245, 245, 245);
+    padding: 6%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.eight_text_box{
+    height: 60%;
+    width: 100%;
+    background-color: rgb(245, 245, 245);
+}
+.eight_text_second{
+    padding: 6%;
+    font-size: 20px;
+}
+.eight_subtext{
+    padding: 6%;
+    font-size: 20px;
+}
+.row_eight{
+    width: 100%;
+    height: calc(100% / 2);
+    display: flex;
+}
+.col_eight{
+    width: calc(100% / 2);
+    height: 100%;
+    contain: content;
+}
+.logo_eight{
+    height: 28%;
+    width: 100%;
+    margin-top: 50%;
+    filter: invert(1);
+}
+.green_eight{
+    background-color: rgb(162, 211, 155);
+}
+.red_asu_eight{
+    background-color: rgb(97, 8, 43);
+}
+.sky_blue_eight{
+    background-color: rgb(0, 147, 206);
+}
+.orange_eight{
+    background-color: rgb(255, 28, 28);
+}
+.red_eight{
+    background-color: rgb(213, 0, 31);
+}
+.grey_eight{
+    background-color: rgb(180, 208, 231);
+}
+.blue_eight{
+    background-color: rgb(13, 36, 129);
+}
+.yellow_eight{
+    background-color: rgb(255, 216, 48);
+}
+/* ninth box */
