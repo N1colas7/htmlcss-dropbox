@@ -363,3 +363,25 @@ main{
     padding: 2%;
 }
 /* sixth box */
+.sixth_box{
+    height: 1000px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.sixth_title{
+    height: 10%;
+    width: 100%;
+    font-size: 27px;
+}
+.sixth_row_1{
+    display: flex;
+    justify-content: space-between;
+    height: calc(90% / 2);
+    width: 100%;
+    margin-top: 7%;
+}
+.col_sixth_row{
+    height: 100%;
+    width: calc(90% / 3);
+}
