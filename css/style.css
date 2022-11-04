@@ -321,3 +321,45 @@ main{
     margin-top: 14%;
     margin-left: 36%;
 }
+/* fifth box */
+.fifth_box{
+    height: 700px;
+    width: 100%;
+    margin-top: 10%;
+}
+.cont_fifth{
+    height: 650px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+}
+.fifth_img_box{
+    height: 100%;
+    width: 60%;
+    display: flex;
+}
+.fifth_text_box{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+}
+.fifth_text{
+    width: 80%;
+    height: 80%;
+    padding: 10%;
+}
+.fifth_p{
+    margin-top: 10%;
+    font-size: 20px;
+}
+.fifth_button{
+    margin-top: 20%;
+    font-size: 20px;
+    border-style: groove;
+    width: 51%;
+    height: 9%;
+    padding: 2%;
+}
+/* sixth box */
