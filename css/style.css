@@ -359,7 +359,7 @@ main{
 }
 .fifth_button{
     margin-top: 20%;
-    font-size: 20px;
+    font-size: 17px;
     border-style: groove;
     width: 51%;
     height: 9%;
@@ -498,6 +498,9 @@ main{
 .yellow_eight{
     background-color: rgb(255, 216, 48);
 }
+.hr-width30{
+    width: 30%;
+}
 /* ninth box */
 .ninth_box{
     background-color: rgb(180, 208, 231);
@@ -520,6 +523,9 @@ main{
     padding: 3%;
     font-size: 22px;
     border-style: groove;
+}
+.hr-width92{
+    width: 92%;
 }
 /* tenth box */
 .tenth_box{
@@ -581,6 +587,9 @@ footer{
     justify-content: space-around;
     height: 250px;
     list-style: none;
+}
+.hr-width50{
+    width: 50%;
 }
 .hr_foot{
     padding-top: 20%;
